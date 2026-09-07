@@ -14,31 +14,31 @@ Select a dashboard preview or its link to open the interactive view in Tableau P
 
 ### 1. Enrollment & Beneficiaries
 
-[![Enrollment and Beneficiaries dashboard preview](https://public.tableau.com/static/images/CM/CMS_Medicare_Analytics_Publication/EnrollmentBeneficiaries/1_rss.png)](https://public.tableau.com/views/CMS_Medicare_Analytics_Publication/EnrollmentBeneficiaries?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Enrollment and Beneficiaries dashboard preview](assets/cms-dashboard-1-enrollment.png)](https://public.tableau.com/views/CMS_Medicare_Analytics_Publication/EnrollmentBeneficiaries?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **[Open Dashboard 1: Enrollment & Beneficiaries](https://public.tableau.com/views/CMS_Medicare_Analytics_Publication/EnrollmentBeneficiaries?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ### 2. Claims & Utilization
 
-[![Claims and Utilization dashboard preview](https://public.tableau.com/static/images/CM/CMS_Medicare_Analytics_Publication/ClaimsUtilization/1_rss.png)](https://public.tableau.com/views/CMS_Medicare_Analytics_Publication/ClaimsUtilization?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Claims and Utilization dashboard preview](assets/cms-dashboard-2-claims.png)](https://public.tableau.com/views/CMS_Medicare_Analytics_Publication/ClaimsUtilization?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **[Open Dashboard 2: Claims & Utilization](https://public.tableau.com/views/CMS_Medicare_Analytics_Publication/ClaimsUtilization?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ### 3. Medicare Part B Utilization & Cost
 
-[![Medicare Part B Utilization and Cost dashboard preview](https://public.tableau.com/static/images/CM/CMS_Medicare_Analytics_Publication/MedicarePartBUtilizationCost/1_rss.png)](https://public.tableau.com/views/CMS_Medicare_Analytics_Publication/MedicarePartBUtilizationCost?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Medicare Part B Utilization and Cost dashboard preview](assets/cms-dashboard-3-part-b.png)](https://public.tableau.com/views/CMS_Medicare_Analytics_Publication/MedicarePartBUtilizationCost?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **[Open Dashboard 3: Medicare Part B Utilization & Cost](https://public.tableau.com/views/CMS_Medicare_Analytics_Publication/MedicarePartBUtilizationCost?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ### 4. Quality Measures & Star Ratings
 
-[![Quality Measures and Star Ratings dashboard preview](https://public.tableau.com/static/images/CM/CMS_Medicare_Analytics_Publication/QualityMeasuresStarRatings/1_rss.png)](https://public.tableau.com/views/CMS_Medicare_Analytics_Publication/QualityMeasuresStarRatings?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Quality Measures and Star Ratings dashboard preview](assets/cms-dashboard-4-quality.png)](https://public.tableau.com/views/CMS_Medicare_Analytics_Publication/QualityMeasuresStarRatings?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **[Open Dashboard 4: Quality Measures & Star Ratings](https://public.tableau.com/views/CMS_Medicare_Analytics_Publication/QualityMeasuresStarRatings?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ### 5. Medicare Provider Network
 
-[![Medicare Provider Network dashboard preview](https://public.tableau.com/static/images/CM/CMS_Medicare_Analytics_Publication/MedicareProviderNetwork/1_rss.png)](https://public.tableau.com/views/CMS_Medicare_Analytics_Publication/MedicareProviderNetwork?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Medicare Provider Network dashboard preview](assets/cms-dashboard-5-provider-network.png)](https://public.tableau.com/views/CMS_Medicare_Analytics_Publication/MedicareProviderNetwork?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **[Open Dashboard 5: Medicare Provider Network](https://public.tableau.com/views/CMS_Medicare_Analytics_Publication/MedicareProviderNetwork?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
