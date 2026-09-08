@@ -8,6 +8,7 @@ An interactive healthcare analytics portfolio examining Medicare enrollment, ben
 | --- | --- |
 | **[Interactive Tableau Public workbook →](https://public.tableau.com/views/CMS_Medicare_Analytics_Publication/EnrollmentBeneficiaries)** | Five dashboards with filters, parameters, tooltips, and dashboard actions |
 | **[Tableau dashboard PDF](docs/CMS_Medicare_Tableau_Dashboards.pdf)** | Five landscape dashboard pages for viewing or printing |
+| **[Excel data dictionary](docs/CMS_Medicare_Data_Dictionary.xlsx)** | Field definitions, units, Tableau formulas, data relationships, and source references for all five dashboards |
 | **[Portfolio presentation and documentation](docs/)** | Portfolio presentation, dashboard PDF, and supporting documentation |
 | **[Source data and public-use extracts](data/)** | Source workbooks and CMS public-use extracts, including instructions for reconstructing large files |
 | **[Tableau workbook resources](tableau/)** | Live dashboards and the packaged Tableau workbook download (.twbx) |
