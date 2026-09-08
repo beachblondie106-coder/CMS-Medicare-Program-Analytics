@@ -124,11 +124,11 @@ The workbook uses separate analytical tables because each subject area has a dif
 
 | Subject area | Primary analytical grain | Analytical purpose |
 | --- | --- | --- |
-| Enrollment and beneficiaries | Reporting period × geography × beneficiary category | Examine enrollment trends, demographic segments, and geographic distribution |
-| Claims and utilization | Year × geography × service or utilization measure | Compare activity, utilization, and payment indicators within a defined reporting scope |
-| Part B utilization and cost | Calendar year × provider specialty | Compare national spending trends, specialty rankings, and payment intensity |
+| Enrollment and Beneficiaries | Reporting period × geography × beneficiary category | Examine enrollment trends, demographic segments, and geographic distribution |
+| Claims and Utilization | Year × geography × service or utilization measure | Compare activity, utilization, and payment indicators within a defined reporting scope |
+| Part B Utilization and Cost | Calendar year × provider specialty | Compare national spending trends, specialty rankings, and payment intensity |
 | Quality and Star Ratings | Rating year × contract × domain or measure | Preserve overall, domain, and measure-level distinctions when comparing contracts |
-| Provider network | Enrollment record × provider or organization | Examine organization and practitioner enrollment by geography and provider type |
+| Provider Network | Enrollment record × provider or organization | Examine organization and practitioner enrollment by geography and provider type |
 
 Data preparation includes multi-source cleaning and standardization, multi-year unions and append workflows, and Tableau logical relationships that preserve source-table grain. Validation checks cover totals, filters, labels, and Top-N behavior.
 
