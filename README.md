@@ -7,7 +7,8 @@ An interactive healthcare analytics portfolio examining Medicare enrollment, ben
 | Resource | What it provides |
 | --- | --- |
 | **[Interactive Tableau Public workbook →](https://public.tableau.com/views/CMS_Medicare_Analytics_Publication/EnrollmentBeneficiaries)** | Five dashboards with filters, parameters, tooltips, and dashboard actions |
-| **[Portfolio presentation and documentation](docs/)** | Portfolio presentation and supporting documentation |
+| **[Tableau dashboard PDF](docs/CMS_Medicare_Tableau_Dashboards.pdf)** | Five landscape dashboard pages for viewing or printing |
+| **[Portfolio presentation and documentation](docs/)** | Portfolio presentation, dashboard PDF, and supporting documentation |
 | **[Source data and public-use extracts](data/)** | Source workbooks and CMS public-use extracts, including instructions for reconstructing large files |
 | **[Tableau workbook resources](tableau/)** | Live dashboards and the packaged Tableau workbook download (.twbx) |
 
@@ -214,7 +215,7 @@ Top-N restrictions are applied to the relevant provider ranking worksheets while
 | `README.md` | Project overview, dashboard gallery, analytical findings, methods, sources, and limitations |
 | `assets/` | Five dashboard preview images used in the gallery |
 | **[data](data/)** | Source workbooks and CMS public-use extracts, including instructions for reconstructing large files |
-| **[docs](docs/)** | Portfolio presentation and supporting documentation |
+| **[docs](docs/)** | Portfolio presentation, dashboard PDF, and supporting documentation |
 | **[tableau](tableau/)** | Live dashboards and the packaged Tableau workbook download (.twbx) |
 
 ## Skills demonstrated
