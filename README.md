@@ -248,3 +248,10 @@ The portfolio demonstrates the ability to translate Medicare business questions 
 ## Appropriate use
 
 This work is suitable as a healthcare analytics portfolio demonstration and as a starting point for further analysis. Operational interpretation should retain each source's reporting period, population, grain, and measure definitions. Findings support exploration and prioritization, with further validation needed before drawing conclusions about access, clinical appropriateness, unusual activity, patient outcomes, or policy effectiveness.
+
+## Author
+
+**Lisa A. Phillips, MBA**  
+Healthcare Operations & Analytics | Commercial, Medicare & Medicaid | Business Intelligence
+
+[LinkedIn](https://www.linkedin.com/in/lisaphillips106) · [GitHub](https://github.com/beachblondie106-coder)
